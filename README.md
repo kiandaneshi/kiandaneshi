@@ -1,4 +1,4 @@
-## Medical Student - UK
+hi, im kian 
 
 been learning to code / programme for about 12-18 months. 
 apply it to various medical / surgical research projects - namely plastic and reconstructive surgery
