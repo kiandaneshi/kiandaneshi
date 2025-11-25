@@ -4,7 +4,7 @@ been learning to code / programme for about 12-18 months.
 
 apply it to various medical / surgical research projects - mostly plastic and reconstructive surgery
 
-aiming for a career in academic plastic surgery. looking to develop the field of computational plastic surgery
+aiming for a career in academic plastic surgery. mostly looking to combine data science + code + big data with plastics 
 
 also i sometimes dabble in fun personal projects too
 
