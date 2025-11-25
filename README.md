@@ -1,9 +1,12 @@
 hi, im kian 
 
 been learning to code / programme for about 12-18 months. 
-apply it to various medical / surgical research projects - namely plastic and reconstructive surgery
 
-sometimes dabble in fun personal projects too
+apply it to various medical / surgical research projects - mostly plastic and reconstructive surgery
+
+aiming for a career in academic plastic surgery. looking to develop the field of computational plastic surgery
+
+also i sometimes dabble in fun personal projects too
 
 
 <!--
