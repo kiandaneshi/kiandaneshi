@@ -1,4 +1,10 @@
-## Hi there 👋
+## Medical Student - UK
+
+been learning to code / programme for about 12-18 months. 
+apply it to various medical / surgical research projects - namely plastic and reconstructive surgery
+
+sometimes dabble in fun personal projects too
+
 
 <!--
 **kiandaneshi/kiandaneshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
